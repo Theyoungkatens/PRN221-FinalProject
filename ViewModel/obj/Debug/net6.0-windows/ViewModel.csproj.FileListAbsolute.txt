@@ -1,0 +1,90 @@
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.deps.json
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.dll
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.pdb
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.AssemblyReference.cache
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfoInputs.cache
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfo.cs
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.dll
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\refint\ViewModel.dll
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.pdb
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ref\ViewModel.dll
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.dll
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.pdb
+F:\FPT_SUBJECTS\Semester_7\PRN221\Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CopyComplete
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.deps.json
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.dll
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.pdb
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.dll
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.pdb
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.AssemblyReference.cache
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfoInputs.cache
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfo.cs
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CopyComplete
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.dll
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\refint\ViewModel.dll
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.pdb
+D:\PRN221\Projects\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ref\ViewModel.dll
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.deps.json
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.dll
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.pdb
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.dll
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.pdb
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.AssemblyReference.cache
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfoInputs.cache
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfo.cs
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CopyComplete
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.dll
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\obj\Debug\net6.0-windows\refint\ViewModel.dll
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.pdb
+F:\FPT_SUBJECTS\Semester_7\PRN221\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ref\ViewModel.dll
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.deps.json
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.dll
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.pdb
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.dll
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.pdb
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.AssemblyReference.cache
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfoInputs.cache
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfo.cs
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CopyComplete
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.dll
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\refint\ViewModel.dll
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.pdb
+D:\SUMMER2023\PRN221\birdmeal\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ref\ViewModel.dll
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.deps.json
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.dll
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.pdb
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfo.cs
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.Up2Date
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.dll
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\refint\ViewModel.dll
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\asp-net-core-razor-page.bird-meal\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ref\ViewModel.dll
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.deps.json
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.dll
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\bin\Debug\net6.0-windows\BusinessObjects.pdb
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfo.cs
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.Up2Date
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.dll
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\obj\Debug\net6.0-windows\refint\ViewModel.dll
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\Admin\Documents\MinhHung\PRN221\Final Project\BirdMealGroupProject\BirdMeal\ViewModel\obj\Debug\net6.0-windows\ref\ViewModel.dll

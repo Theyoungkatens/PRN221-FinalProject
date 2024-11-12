@@ -1,0 +1,1612 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\admins\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\admins\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|c:\\users\\admin\\documents\\minhhung\\prn221\\final project\\birdmealgroupproject\\birdmeal\\birdmeal\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\documents\\minhhung\\prn221\\final project\\birdmealgroupproject\\birdmeal\\dataaccess\\walletdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\walletdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\dataaccess\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\dataaccess\\mealproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mealproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\dataaccess\\mealdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E9F51A-FAAE-4426-8091-B2F385285AED}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mealdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\repository\\orderdetailrepository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|solutionrelative:repository\\orderdetailrepository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\viewmodel\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\businessobjects\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\businessobjects\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\businessobjects\\models\\birdmealcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\birdmealcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\globals\\meals\\listmeal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\globals\\meals\\listmeal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\staffs\\meals\\listmeal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\staffs\\meals\\listmeal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\staffs\\meals\\editmeal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\staffs\\meals\\editmeal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\staffs\\meals\\listmeal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\staffs\\meals\\listmeal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\staffs\\meals\\detailmeal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\staffs\\meals\\detailmeal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\staffs\\meals\\editmeal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\staffs\\meals\\editmeal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\staffs\\meals\\addmeal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\staffs\\meals\\addmeal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\staffs\\meals\\addmeal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\staffs\\meals\\addmeal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\staffs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\staffs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\admins\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\admins\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\staffs\\products\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\staffs\\products\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\session\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\session\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\admins\\accounts\\listaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\admins\\accounts\\listaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\admins\\accounts\\addaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\admins\\accounts\\addaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\mywallet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\mywallet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\myprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\myprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\myorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\myorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\viewmodel\\orderdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\orderdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\viewmodel\\mealviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\mealviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\viewmodel\\mealproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\mealproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CABB26-3ADE-4DA1-BF4B-DFB0980BD900}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\repository\\mealproductrepository\\mealproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|solutionrelative:repository\\mealproductrepository\\mealproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\repository\\mealproductrepository\\imealproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|solutionrelative:repository\\mealproductrepository\\imealproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\businessobjects\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\businessobjects\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\businessobjects\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\businessobjects\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\businessobjects\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\businessobjects\\models\\mealproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860DEA88-A20B-469F-9F03-78AE447AC683}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\mealproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\shared\\stafflayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\shared\\stafflayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\globals\\products\\listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\globals\\products\\listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\globals\\products\\detailglobal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\globals\\products\\detailglobal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\globals\\meals\\listmeal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\globals\\meals\\listmeal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\globals\\meals\\detailglobal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\globals\\meals\\detailglobal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\repository\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|solutionrelative:repository\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\repository\\productrepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|solutionrelative:repository\\productrepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\repository\\orderrepository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|solutionrelative:repository\\orderrepository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\repository\\orderrepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|solutionrelative:repository\\orderrepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\repository\\orderdetailrepository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|solutionrelative:repository\\orderdetailrepository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\repository\\mealrepository\\mealrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|solutionrelative:repository\\mealrepository\\mealrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\repository\\mealrepository\\imealrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB9BB67-477B-4633-BF05-4552DB2FA897}|Repository\\Repository.csproj|solutionrelative:repository\\mealrepository\\imealrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\birdmeal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\birdmeal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\detailmyorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\detailmyorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\search.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\search.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\mywallet.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\mywallet.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\myprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\myprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\bill.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\bill.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\detailmyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\detailmyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\globals\\products\\detailglobal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\globals\\products\\detailglobal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\globals\\meals\\detailglobal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\globals\\meals\\detailglobal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\birdmeal\\pages\\staffs\\orders\\listorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D544C4-1C6C-4982-99BC-89A95DA1641E}|BirdMeal\\BirdMeal.csproj|solutionrelative:birdmeal\\pages\\staffs\\orders\\listorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Admins\\Index.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Admins\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Admins\\Index.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Admins\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T17:06:59.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\OrderDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderDetailDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\OrderDetailDAO.cs",
+              "RelativeToolTip": "DataAccess\\OrderDetailDAO.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:15:11.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccess\\OrderDAO.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:06:58.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MealProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\MealProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\MealProductDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\MealProductDAO.cs",
+              "RelativeToolTip": "DataAccess\\MealProductDAO.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:14:56.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowCwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:07:54.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T17:06:57.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAG4AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:04:05.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccess\\ProductDAO.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAA/wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:44:08.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T08:03:21.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\UserDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\UserDAO.cs",
+              "RelativeToolTip": "DataAccess\\UserDAO.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:44:09.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WalletDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\WalletDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\WalletDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\WalletDAO.cs",
+              "RelativeToolTip": "DataAccess\\WalletDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:12:59.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MealDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\MealDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\MealDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\DataAccess\\MealDAO.cs",
+              "RelativeToolTip": "DataAccess\\MealDAO.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:41:29.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\OrderDetailRepository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderDetailRepository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\OrderDetailRepository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Repository\\OrderDetailRepository\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:10:39.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\CartViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:13:09.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\Cart.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:12:25.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Meal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\Meal.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Meal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\Meal.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Meal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:26:46.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BirdMealContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\BirdMealContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\BirdMealContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\BirdMealContext.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\BirdMealContext.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:12:15.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListMeal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Meals\\ListMeal.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Globals\\Meals\\ListMeal.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Meals\\ListMeal.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Globals\\Meals\\ListMeal.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:03:37.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditMeal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\EditMeal.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Staffs\\Meals\\EditMeal.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\EditMeal.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Staffs\\Meals\\EditMeal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T15:20:42.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Index.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:02:39.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:13:43.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DetailMeal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\DetailMeal.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Staffs\\Meals\\DetailMeal.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\DetailMeal.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Staffs\\Meals\\DetailMeal.cshtml.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAmwJ4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:35:48.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ListMeal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\ListMeal.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Staffs\\Meals\\ListMeal.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\ListMeal.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Staffs\\Meals\\ListMeal.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:36:41.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListMeal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\ListMeal.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Staffs\\Meals\\ListMeal.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\ListMeal.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Staffs\\Meals\\ListMeal.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T15:36:51.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditMeal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\EditMeal.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Staffs\\Meals\\EditMeal.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\EditMeal.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Staffs\\Meals\\EditMeal.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:35:27.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddMeal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\AddMeal.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Staffs\\Meals\\AddMeal.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\AddMeal.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Staffs\\Meals\\AddMeal.cshtml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:35:14.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Session\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Session\\SessionHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Session\\SessionHelper.cs",
+              "RelativeToolTip": "BirdMeal\\Session\\SessionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:21:37.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddProduct.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Products\\AddProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Staffs\\Products\\AddProduct.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Products\\AddProduct.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Staffs\\Products\\AddProduct.cshtml.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAmwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:21:06.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Program.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Program.cs",
+              "RelativeToolTip": "BirdMeal\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:12:41.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\appsettings.json",
+              "RelativeDocumentMoniker": "BirdMeal\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\appsettings.json",
+              "RelativeToolTip": "BirdMeal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T17:07:16.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddMeal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\AddMeal.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Staffs\\Meals\\AddMeal.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Meals\\AddMeal.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Staffs\\Meals\\AddMeal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T15:20:39.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Staffs\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Index.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Staffs\\Index.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:25:05.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Admins\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Admins\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Admins\\Index.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Admins\\Index.cshtml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwCYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:06:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ListAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Admins\\Accounts\\ListAccount.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Admins\\Accounts\\ListAccount.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Admins\\Accounts\\ListAccount.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Admins\\Accounts\\ListAccount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T15:14:15.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Admins\\Accounts\\AddAccount.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Admins\\Accounts\\AddAccount.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Admins\\Accounts\\AddAccount.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Admins\\Accounts\\AddAccount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T15:14:14.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:02:10.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Register.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:02:11.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MyWallet.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\MyWallet.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\MyWallet.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\MyWallet.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\MyWallet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:02:09.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MyProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\MyProfile.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\MyProfile.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\MyProfile.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\MyProfile.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T08:42:51.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Search.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Search.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Search.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Search.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:02:15.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MyOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\MyOrder.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\MyOrder.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\MyOrder.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\MyOrder.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T17:06:57.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T15:13:41.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Login.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:03:17.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\ProductViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ProductViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:01:59.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\OrderViewModel.cs",
+              "RelativeToolTip": "ViewModel\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:13:13.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MealViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\MealViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MealViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\MealViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MealViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:01:57.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MealProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\MealProductViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MealProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\MealProductViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MealProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:01:57.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:01:56.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\OrderDetailViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\OrderDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\ViewModel\\OrderDetailViewModel.cs",
+              "RelativeToolTip": "ViewModel\\OrderDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:01:58.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MealProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\MealProductRepository\\MealProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MealProductRepository\\MealProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\MealProductRepository\\MealProductRepository.cs",
+              "RelativeToolTip": "Repository\\MealProductRepository\\MealProductRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:10:45.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IMealProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\MealProductRepository\\IMealProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MealProductRepository\\IMealProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\MealProductRepository\\IMealProductRepository.cs",
+              "RelativeToolTip": "Repository\\MealProductRepository\\IMealProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:01:49.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:43:47.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:43:49.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\User.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:43:50.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\Wallet.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Wallet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\Wallet.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Wallet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:12:36.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\Order.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:12:32.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MealProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\MealProduct.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\MealProduct.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BusinessObjects\\Models\\MealProduct.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\MealProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:12:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "StaffLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Shared\\StaffLayout.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Shared\\StaffLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Shared\\StaffLayout.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Shared\\StaffLayout.cshtml",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAMUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:04:09.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ListProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Products\\ListProduct.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Globals\\Products\\ListProduct.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Products\\ListProduct.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Globals\\Products\\ListProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:03:51.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DetailGlobal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Products\\DetailGlobal.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Globals\\Products\\DetailGlobal.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Products\\DetailGlobal.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Globals\\Products\\DetailGlobal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:03:42.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ListMeal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Meals\\ListMeal.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Globals\\Meals\\ListMeal.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Meals\\ListMeal.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Globals\\Meals\\ListMeal.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:52:16.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DetailGlobal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Meals\\DetailGlobal.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Globals\\Meals\\DetailGlobal.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Meals\\DetailGlobal.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Globals\\Meals\\DetailGlobal.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T04:52:02.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Cart.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Cart.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Cart.cshtml",
+              "ViewState": "AQIAANUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:02:30.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Bill.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Bill.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Bill.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Bill.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Bill.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:02:29.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\About.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\About.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:02:22.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T06:15:28.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T06:15:26.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\ProductRepository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\ProductRepository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:10:59.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\OrderRepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderRepository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\OrderRepository\\IOrderRepository.cs",
+              "RelativeToolTip": "Repository\\OrderRepository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:10:51.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\OrderRepository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderRepository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\OrderRepository\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\OrderRepository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:10:52.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\ProductRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\ProductRepository\\IProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:10:58.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\OrderDetailRepository\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderDetailRepository\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\OrderDetailRepository\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "Repository\\OrderDetailRepository\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:10:41.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "MealRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\MealRepository\\MealRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MealRepository\\MealRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\MealRepository\\MealRepository.cs",
+              "RelativeToolTip": "Repository\\MealRepository\\MealRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:10:33.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IMealRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\MealRepository\\IMealRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MealRepository\\IMealRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\Repository\\MealRepository\\IMealRepository.cs",
+              "RelativeToolTip": "Repository\\MealRepository\\IMealRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:10:32.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "BirdMeal.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\BirdMeal.csproj",
+              "RelativeDocumentMoniker": "BirdMeal\\BirdMeal.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\BirdMeal.csproj",
+              "RelativeToolTip": "BirdMeal\\BirdMeal.csproj",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T05:02:06.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Cart.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Cart.cshtml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:13:10.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "DetailMyOrder.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\DetailMyOrder.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\DetailMyOrder.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\DetailMyOrder.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\DetailMyOrder.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:13:33.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Search.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Search.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Search.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Search.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Search.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:14:48.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:14:33.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "MyWallet.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\MyWallet.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\MyWallet.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\MyWallet.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\MyWallet.cshtml.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAwwFoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:14:17.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "MyProfile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\MyProfile.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\MyProfile.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\MyProfile.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\MyProfile.cshtml.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:14:09.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:13:39.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Bill.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Bill.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Bill.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Bill.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Bill.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:13:06.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Error.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:02:38.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DetailMyOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\DetailMyOrder.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\DetailMyOrder.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\DetailMyOrder.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\DetailMyOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T17:06:57.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "DetailGlobal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Products\\DetailGlobal.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Globals\\Products\\DetailGlobal.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Products\\DetailGlobal.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Globals\\Products\\DetailGlobal.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:52:20.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "DetailGlobal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Meals\\DetailGlobal.cshtml.cs",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Globals\\Meals\\DetailGlobal.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Globals\\Meals\\DetailGlobal.cshtml.cs",
+              "RelativeToolTip": "BirdMeal\\Pages\\Globals\\Meals\\DetailGlobal.cshtml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:52:07.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ListOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Orders\\ListOrder.cshtml",
+              "RelativeDocumentMoniker": "BirdMeal\\Pages\\Staffs\\Orders\\ListOrder.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\PRN221\\Final Project\\BirdMealGroupProject\\BirdMeal\\BirdMeal\\Pages\\Staffs\\Orders\\ListOrder.cshtml",
+              "RelativeToolTip": "BirdMeal\\Pages\\Staffs\\Orders\\ListOrder.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T17:06:57.653Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:44:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:47:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:51:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1455,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a18f9d0-b838-11d0-93eb-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 826,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

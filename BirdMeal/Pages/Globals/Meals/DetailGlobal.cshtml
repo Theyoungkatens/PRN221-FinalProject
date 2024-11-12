@@ -1,0 +1,154 @@
+﻿@page "{id}"
+@model BirdMeal.Pages.Globals.Meals.DetailGlobalModel
+@{
+    ViewData["Title"] = "Detail Combo";
+}
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    img.card-img-top {
+        width: 50px;
+        height: 70px;
+    }
+</style>
+
+<div class="container">
+    <h1 class="mb-3">Detail Combo @Model.MealModel.MealId</h1>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Image</th>
+                <th>Product Name</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                Model.Total = 0f; // Initialize a variable to store the total price
+            }
+            @foreach (var item in Model.MealDetail)
+            {
+                var totalPrice = (float?)(item.Quantity * item.Product.Price);
+                Model.Total += totalPrice;
+                var exceededQuantityClass = item.Quantity > item.Product.Quantity ? "exceeded-quantity" : string.Empty;
+                <tr>
+                    <td>
+                        <a href="~/Globals/Products/DetailGlobal/@item.Product.ProductId">
+                            <img class="card-img-top" src="~/images/@item.Product.Image" alt="Card image" style="width: 50px; height: 70px">
+                        </a>
+                    </td>
+                    <td>
+                        @item.Product.ProductName
+                    </td>
+                    <td>
+                        <input min="1" type="number" class="form-control quantity-input" value="@item.Quantity" data-price="@item.Product.Price" max="@item.Product.Quantity" />
+                        @if (exceededQuantityClass != string.Empty)
+                        {
+                            <span class="@exceededQuantityClass">Quantity exceeded</span>
+                        }
+                    </td>
+                    <td class="price-column">
+                        @totalPrice $
+                    </td>
+                    <td>
+                        <a style="outline:none" href="~/Globals/Products/DetailGlobal/@item.Product.ProductId">Detail</a>
+                    </td>
+                   
+                </tr>
+            
+            }
+
+        </tbody>
+    </table>
+    <h2>Total Price : <span id="totalDisplay">@Model.Total</span> $</h2>
+    <div class="alert alert-danger" role="alert" style="display: none">
+        Quantity exceeded for some products.
+    </div>
+
+    <form asp-page="/Cart" method="post" asp-page-handler="AddToCart">
+    <input type="hidden" name="userId" asp-for="@Model.UserId" />
+        <input type="hidden" name="total" id="hidden-total-price" asp-for="@Model.Total"/>
+    <input type="hidden" name="mealId" asp-for="@Model.MealModel.MealId" />
+
+    @foreach (var item in Model.MealDetail)
+    {
+        <input type="hidden" name="quantity[@item.Product.ProductId]" value="@item.Quantity" />
+        <input type="hidden" name="productQuantity[@item.Product.ProductId]" value="@item.Product.Quantity" />
+    }
+
+    <button class="btn btn-primary mt-3" type="submit">Add to cart</button>
+</form>
+    
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Update the prices and total when the quantity inputs change
+            // Update the prices and total when the quantity inputs change
+            $('.quantity-input').on('input', function () {
+                var total = 0;
+                var exceededQuantity = false;
+                var quantityChanged = false;
+                $('.quantity-input').each(function () {
+                    var quantity = $(this).val();
+                    var price = $(this).data('price');
+                    var totalPrice = parseFloat(quantity) * parseFloat(price);
+                    var priceColumn = $(this).closest('tr').find('.price-column');
+                    priceColumn.text(totalPrice.toFixed(2) + ' $');
+                    total += totalPrice;
+
+                    var productQuantity = parseInt($(this).attr('max'));
+                    if (quantity > productQuantity) {
+                        exceededQuantity = true;
+                        $(this).closest('tr').find('.exceeded-quantity').show();
+                    } else {
+                        $(this).closest('tr').find('.exceeded-quantity').hide();
+                    }
+                    // Check if quantity has changed for any input
+                    if ($(this).val() !== $(this).data('original-value')) {
+                        quantityChanged = true;
+                    }
+                });
+                $('#totalDisplay').text(total.toFixed(2));
+                if (quantityChanged) {
+                    // If quantity has changed, use the calculated total
+                    $('#hidden-total-price').val(total.toFixed(2));
+                } else {
+                    // If quantity has not changed, use @Model.Total
+                    $('#hidden-total-price').val('@Model.Total');
+                }
+                
+                if (exceededQuantity) {
+                    $('.alert-danger').show();
+                    $('button[type="submit"]').prop('disabled', true);
+                } else {
+                    $('.alert-danger').hide();
+                    $('button[type="submit"]').prop('disabled', false);
+                }
+
+            });
+            // Initialize the original values of quantity inputs
+            $('.quantity-input').each(function () {
+                $(this).data('original-value', $(this).val());
+            });
+           
+        });
+
+    </script>
+}
